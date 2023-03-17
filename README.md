@@ -14,6 +14,8 @@ N/A
 
 Use this Work Day Scheduler application as your daily planner. Enter the event corresponding the timeblock it is scheduled and click the save button to save it. The timeblock for the current time will have a red background while the past timeblocks grey and future green backgrounds.
 
+[This is an external link to Work Day Scheduler application](https://garethus.github.io/work-day-scheduler/)
+
 ![Work Day Scheduler application screeshot](./assets/screenshot.png)
     
 
